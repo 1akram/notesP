@@ -1,0 +1,45 @@
+﻿<?php
+
+return [
+ 
+    'LOGIN_INFO_DONT_MATCH_OUR_RECORDS'=>'معلومات تسجيل الدخول غير صحيحة',
+    'LOGOUT_WITH_SUCCESS'=>'تم تسجيل الخروج بنجاح',
+    'REGISTER_WITH_SUCCESS'=>'تم التسجيل بنجاح',
+    'FIRST_NAME_REQUIRED'=>'الاسم  مطلوب',
+    'FIRST_NAME_MAX_CHAR'=>'اقصى حدد للاسم هو 255 حرف',
+    'LAST_NAME_REQUIRED'=>'اللقب  مطلوب',
+    'LAST_NAME_MAX_CHAR'=>'اقصى حدد للقب هو 255 حرف',
+    'EMAIL_REQUIRED'=>'البريد الالكتروني مطلوب',
+    'EMAIL_REQUIRED'=>'البريد الالكتروني مطلوب',
+    'EMAIL_EMAIL'=>'البريد الالكتروني غير صالح',
+    'EMAIL_UNIQUE'=>'البريد الالكتروني موجود من قبل',
+    'PASSWORD_REQUIRED'=>'كلمة المرور مطلوبة',
+    'PASSWORD_MIN'=>'كلمة المرور اقل من 8 رموز',
+    'PASSWORD_CONFIRMED'=>'كلمة المرور غير مطابقة',
+    'NOTES'=>'الملاحظات',
+    'HOME'=>'الرئيسية',
+    'SUBMIT'=>'ارسال',
+    'NO_NOTES_YET'=>'لا توجد ملاحظات بعد',
+    'ADD_NOTE'=>'اضافة ملاحظة',
+    'DISPLAY_NOTE'=>'عرض ملاحظة',
+    'EDIT_NOTE'=>'تعديل ملاحظة',
+    'IMAGE_EXTENSION'=>'امتداد الملف يجب ان يكون jpg ,png',
+    'IMAGE_MAX_SIZE'=>'حجم الملف لا يجب ان يتجاوز :size مب',
+    'CONTENT_REQUIRED'=>'المحتوى مطلوب',
+    'TYPE_REQUIRED'=>'النوع مطلوب',
+    'TYPE_NOTEXISTE'=>'النوع غير موجود',
+    'IMAGE_NOT_UPLOAD_CORRECTLY'=>'لم يتم تحميل الصورة بطريقة صحيحة',
+    'LINK_SHARED'=>'تم نسخ الرابط',
+    'NOTE_DELETED'=>'تم حذف الملاحظة',
+    'NOTE_ADDED'=>'تم اضافة الملاحظة',
+    'NOTE_UPDATED'=>'تم تحديث الملاحظة',
+    'NOTE_NOT_EXISTE'=>' لاتوجد ملاحظة او غير مسموح لك الوصول اليها',
+    'TYPE_NOT_EXISTE'=>'نوع غير مقبول',
+    'CONTENT'=>'المحتوى',
+    'TYPES'=>[
+        'normal'=>'عادي',
+        'on-date'=>'في الموعد',
+        'urgent'=>'عاجل',
+        
+    ]
+];
